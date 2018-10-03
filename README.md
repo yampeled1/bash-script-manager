@@ -73,7 +73,5 @@ Untill this point there is only ver 1.0
 
 ## Authors
 
-* **Yam Peled** - [Yam Peled](https://github.com/yampeled1)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* [Yam Peled](https://github.com/yampeled1)
 
