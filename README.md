@@ -5,6 +5,8 @@ This project is a summary to part of the skills I earned after completetion of L
 ## Getting Started
 
 No need for special tools, just follow the instructions of the script itself 
+### Limitations
+The build runs only on scripts located in the current directory
 ### Output example
 
 A short example of an output
